@@ -24,6 +24,14 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import br.edu.up.appplanta.ui.theme.AppPlantaTheme
 
+/**
+ * Alunos:
+ *  - Gabriel Correia André - RGM: 34379878
+ *  - Henrique Onorato - RGM: 34395857
+ *  - Francyne Leocadio Ramos - RGM: 32876131
+ *  - Renan Luiz dos Santos - RGM: 34572309
+ */
+
 class MainActivity : ComponentActivity() {
 
     companion object {
