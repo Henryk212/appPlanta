@@ -21,7 +21,7 @@ oque mostra que você desistiu da pequenina.
 
 🤳🏻 Modo de uso 🤳🏻
 
-Nester minigame, teremos uma platinha qque precisara ser regada para crescer e finalizar o game,
-no botão regar  a planta, ue precisa  ser clicado varias vezes  para que a agua seja levada  até a plantinha,
-porém caso queira deistir do game, você tem a opção de envenenar a mesma, onde ela te levara para um dos finais do jogo.
+Neste minigame, teremos um girassol a ser regada para crescer e finalizar o game.
+No botão "Regar  a Planta", que precisa  ser clicado várias vezes para que a plantinha possa crescer.
+Caso queira desistir do game, você tem a opção de envenená-la, o que acarreterá no final do jogo..
 
