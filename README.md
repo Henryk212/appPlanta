@@ -9,11 +9,15 @@ Integrantes:
 | Renan Luiz dos Santos             | 34572309 |
 | Henrique Onorato                  | 34395857 |
 
+-------------------------------------------------------------------------------------------------------------------------
+
 🌱 Objetivo do aplicativo 🌱
 
-🌱 O objetivo do minigame, é regar a planta passando por todas as suas fases de crescimento
+O objetivo do minigame, é regar a planta passando por todas as suas fases de crescimento
 para que a mesma se desenvolva, porém você pode não qquerer esta planta viva e envenena-la 
-oque mostra que você desistiu da pequenina. 🌱
+oque mostra que você desistiu da pequenina.
+
+-------------------------------------------------------------------------------------------------------------------------
 
 🤳🏻 Modo de uso 🤳🏻
 
