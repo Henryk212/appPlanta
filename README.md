@@ -1,11 +1,12 @@
 App Regar Planta
 
 Integrantes:
-| Alunos | RGM |
+| Alunos                            |    RGM   |
+------------------------------------------------
 | Francyne Aparecida Leocadio Ramos | 32876131 |
-| Gabriel Correia André | 34379878 |
-| Renan Luiz dos Santos | 34572309 |
-| Henrique Onorato | 34395857 |
+| Gabriel Correia André             | 34379878 |
+| Renan Luiz dos Santos             | 34572309 |
+| Henrique Onorato                  | 34395857 |
 
 🌱 Objetivo do aplicativo 🌱
 
